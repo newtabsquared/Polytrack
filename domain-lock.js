@@ -1,5 +1,5 @@
 (function () {
-  var ALLOWED_ORIGIN = "https://newnewnewnewtab.github.io/";
+  var ALLOWED_ORIGIN = "https://newtabsquared.github.io/";
 
   function isOnAllowedSite() {
     try {
